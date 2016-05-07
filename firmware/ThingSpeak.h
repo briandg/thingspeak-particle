@@ -52,6 +52,7 @@
 
 //#define PRINT_DEBUG_MESSAGES
 //#define PRINT_HTTP
+#define SPARK
 
 #ifdef SPARK
     // Create platform defines for Particle devices
